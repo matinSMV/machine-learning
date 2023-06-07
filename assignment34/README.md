@@ -1,6 +1,6 @@
 ## Covid Statistics
 - The eight countries with the highest number of covid cases in the fourth month of 2020.
-> ![countries](output1.PNG)
+> ![countries](https://github.com/matinSMV/machine-learning/blob/main/assignment34/output1.png)
 
 - Draw a graph that shows the mortality rate in relation to the number of cases in Iran on different days.
 > ![new cases vs new deaths in iran](output.png)
