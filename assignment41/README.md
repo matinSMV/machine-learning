@@ -1,4 +1,4 @@
-## Weather prediction iwth MLP
+## Weather prediction with MLP
 - this is assignment39 solved with Multi Layer Perceptron.
 
 | epoch        | 10           | 83  | 149 | 500 |
